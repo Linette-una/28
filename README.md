@@ -14,5 +14,4 @@ tests_SF_RT.py - набор автотестов
 
 Объект тесирования: форма регистрации/авторизации сайта: https://b2c.passport.rt.ru
 
-Ссылка на тестирование требований, тест-кейсы, баг-репорты: 
-https://docs.google.com/spreadsheets/d/1rq7_SW2Sxm-zV7I1oegbJPmGrskm6AcQAAFQUtCdeJk/edit?usp=sharing
+Ссылка на тестирование требований, тест-кейсы, баг-репорты:
